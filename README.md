@@ -7,7 +7,7 @@ This action executes `yamllint` (https://github.com/adrienverge/yamllint) agains
 Simple as:
 
 ```yaml
-- uses: ibiqlik/action-yamllint@v3
+- uses: gti-uvigo/action-yamllint@v3
 ```
 
 ### Optional input parameters
